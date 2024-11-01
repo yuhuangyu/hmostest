@@ -1,0 +1,14 @@
+{
+  "license": "Apache-2.0",
+  "devDependencies": {},
+  "author": "",
+  "name": "login",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "version": "1.0.0",
+  "dependencies": {
+    "datastore": "file:../../commons/datastore",
+    "network": "file:../../commons/network",
+    "utils": "file:../../commons/utils"
+  }
+}

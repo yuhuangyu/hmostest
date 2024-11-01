@@ -1,0 +1,124 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "page_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "color_index",
+      "value": "#1E67DC"
+    },
+    {
+      "name": "fontColor_text",
+      "value": "#000000"
+    },
+    {
+      "name": "fontColor_text1",
+      "value": "#8A8A8A"
+    },
+    {
+      "name": "fontColor_text2",
+      "value": "#FF989898"
+    },
+    {
+      "name": "fontColor_text3",
+      "value": "#182431"
+    },
+    {
+      "name": "listColor",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "dividerColor",
+      "value": "#E2E2E2"
+    },
+    {
+      "name": "title_color",
+      "value": "#182431"
+    },
+    {
+      "name": "privacy_back_text",
+      "value": "#007DFF"
+    },
+    {
+      "name": "launcher_text_title_color",
+      "value": "#182431"
+    },
+    {
+      "name": "launcher_text_introduce_color",
+      "value": "#182431"
+    },
+    {
+      "name": "advertising_text_title_color",
+      "value": "#182431"
+    },
+    {
+      "name": "advertising_text_background_color",
+      "value": "#33000000"
+    },
+    {
+      "name": "home_page_text_color",
+      "value": "#14224D"
+    },
+    {
+      "name": "dialog_fancy_text_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "dialog_text_color",
+      "value": "#182431"
+    },
+    {
+      "name": "dialog_blank_background_color",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "dialog_text_statement_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "index_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "button_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "cancel_button_color",
+      "value": "#0D000000"
+    },
+    {
+      "name": "common_color",
+      "value": "#182431"
+    },
+    {
+      "name": "tab_selectedColor",
+      "value": "#007DFF"
+    },
+    {
+      "name": "tab_fontColor",
+      "value": "#182431"
+    },
+    {
+      "name": "outer_canvas_title",
+      "value": "#182431"
+    },
+    {
+      "name": "outer_button_font",
+      "value": "#007DFF"
+    },
+    {
+      "name": "outer_button_bg",
+      "value": "#dedbdb"
+    }
+  ]
+}

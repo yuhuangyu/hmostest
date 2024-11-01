@@ -1,0 +1,17 @@
+{
+  "module": {
+    "name": "staticlibrary",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet",
+      "2in1"
+    ],
+    "metadata": [
+      {
+        "name": "UseTsHar",   // HAR模块中arkts文件编译后，默认产物为js文件; 想要将产物修改为ts文件: 将"metadata"字段下的"name"设置为“UseTsHar”
+        "value": "true"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ArkTS开发案例"
+    },
+    {
+      "name": "ArkTS_Development_Case",
+      "value": "ArkTS开发案例"
+    },
+    {
+      "name": "DaffodilsNumber",
+      "value": "打印水仙花数"
+    },
+    {
+      "name": "MultiplicationTable",
+      "value": "打印九九乘法表"
+    },
+    {
+      "name": "IsPalindromicString",
+      "value": "判断字符串是否为回文字符串"
+    },
+    {
+      "name": "StringReversal",
+      "value": "字符串反转"
+    },
+    {
+      "name": "IsLeapYear",
+      "value": "判断是否为闰年"
+    },
+    {
+      "name": "DaffodilsNumberTitle",
+      "value": "水仙花数"
+    },
+    {
+      "name": "Judgment_of_leap_year",
+      "value": "闰年判断"
+    },
+    {
+      "name": "Judgment_of_palindromic_string",
+      "value": "回文字符串判断"
+    },
+    {
+      "name": "Multiplication_Table_Title",
+      "value": "九九乘法表"
+    },
+    {
+      "name": "check_info_in_log",
+      "value": "请在日志打印中查看"
+    },
+    {
+      "name": "check_to_second",
+      "value": "跳转页面二"
+    },
+    {
+      "name": "check_to_third",
+      "value": "跳转页面三"
+    },
+    {
+      "name": "check_to_fourth",
+      "value": "跳转页面四"
+    },
+    {
+      "name": "check_to_foreachsort",
+      "value": "跳转页面五"
+    },
+    {
+      "name": "page_title",
+      "value": "待办"
+    },
+    {
+      "name": "page_todo",
+      "value": "跳转页面TODO"
+    },
+    {
+      "name": "page_uiability",
+      "value": "跳转页面UIAbility"
+    },
+    {
+      "name": "apply_for_network",
+      "value": "Allow the app to access the network"
+    },
+    {
+      "name": "pull_up_load_text",
+      "value": "Loading in..."
+    },
+    {
+      "name": "pull_down_refresh_text",
+      "value": "The drop-down refresh"
+    },
+    {
+      "name": "release_refresh_text",
+      "value": "Loosen the refresh"
+    },
+    {
+      "name": "refreshing_text",
+      "value": "Is refreshing"
+    },
+    {
+      "name": "refresh_success_text",
+      "value": "Refresh the success"
+    },
+    {
+      "name": "refresh_fail_text",
+      "value": "Refresh the failure"
+    },
+    {
+      "name": "http_error_message",
+      "value": "Network request failed, please try later!"
+    },
+    {
+      "name": "page_none_msg",
+      "value": "Network loading failure"
+    },
+    {
+      "name": "prompt_message",
+      "value": "No more data"
+    },
+    {
+      "name": "dependency_reason",
+      "value": "Used to initiate network data requests."
+    },
+    {
+      "name": "prompt_no_title",
+      "value": "Please enter a title."
+    },
+    {
+      "name": "prompt_select_img",
+      "value": "Select an image to upload."
+    },
+    {
+      "name": "prompt_no_content",
+      "value": "Please enter the content."
+    },
+    {
+      "name": "prompt_no_file",
+      "value": "Please select a picture."
+    },
+    {
+      "name": "upload_error_message",
+      "value": "Upload file failed, please try again!"
+    },
+    {
+      "name": "title_default_text",
+      "value": "Fill in the title"
+    },
+    {
+      "name": "content_default_text",
+      "value": "Write something"
+    },
+    {
+      "name": "release_btn",
+      "value": "Release"
+    },
+    {
+      "name": "uploading_text",
+      "value": "Uploading... Please wait."
+    },
+    {
+      "name": "home_page_text",
+      "value": "Hello World"
+    },
+    {
+      "name": "healthy_life_text",
+      "value": "Healthy Living"
+    },
+    {
+      "name": "healthy_life_introduce",
+      "value": "There's always a new way to play health."
+    },
+    {
+      "name": "advertising_text_title",
+      "value": "Skip %ds"
+    },
+    {
+      "name": "dialog_text_title",
+      "value": "Welcome To My App"
+    },
+    {
+      "name": "dialog_text_privacy_content",
+      "value": "We fully respect users' privacy rights and provide appropriate security protection measures for your personal information in accordance with legal requirements and mature security standards in the industry."
+    },
+    {
+      "name": "dialog_text_privacy_statement",
+      "value": "Privacy Agreement Protection Statement"
+    },
+    {
+      "name": "dialog_text_declaration_prompt",
+      "value": "(hereinafter referred to as \"this statement\") to help you understand how we collect, use, disclose, protect, store and transmit your personal data. Please read this statement carefully. If you have any questions, please let us know."
+    },
+    {
+      "name": "dialog_button_disagree",
+      "value": "Disagree"
+    },
+    {
+      "name": "dialog_button_agree",
+      "value": "Agree"
+    },
+    {
+      "name": "privacy_text_title",
+      "value": "Privacy Policy"
+    },
+    {
+      "name": "privacy_text_content",
+      "value": "This privacy notice describes the important parts of this statement, how the service processes your personal information, how you exercise your data subject rights, related data controllers, and how to contact the data controllers. If there is any inconsistency between the privacy notice and this statement, the privacy notice shall prevail. If not specified in the privacy notice, this statement shall prevail."
+    },
+    {
+      "name": "privacy_back",
+      "value": "Go Back"
+    },
+    {
+      "name": "title",
+      "value": "文件下载"
+    },
+    {
+      "name": "button_download",
+      "value": "下载"
+    },
+    {
+      "name": "button_pause",
+      "value": "暂停"
+    },
+    {
+      "name": "button_resume",
+      "value": "继续"
+    },
+    {
+      "name": "button_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "button_finish",
+      "value": "打开"
+    },
+    {
+      "name": "notification_title_download",
+      "value": "下载中"
+    },
+    {
+      "name": "notification_title_pause",
+      "value": "已暂停下载"
+    },
+    {
+      "name": "notification_title_finish",
+      "value": "下载完成"
+    },
+    {
+      "name": "invalid_button_toast",
+      "value": "功能暂未实现"
+    },
+    {
+      "name": "invalid_progress_toast",
+      "value": "不支持进度条模板"
+    },
+    {
+      "name": "outer_button_load",
+      "value": "加载动画"
+    },
+    {
+      "name": "outer_button_end",
+      "value": "结束并回到第0帧"
+    },
+    {
+      "name": "outer_button_start",
+      "value": "播放"
+    },
+    {
+      "name": "outer_button_pause",
+      "value": "暂停"
+    }
+  ]
+}

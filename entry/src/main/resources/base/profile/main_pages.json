@@ -1,0 +1,24 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Second",
+    "pages/Third",
+    "pages/Four",
+    "pages/ArticleListView",
+    "pages/ForEachSort",
+    "pages/ToDoListPage",
+    "pages/LocalStoragePage",
+    "pages/FuncAbilityA",
+    "pages/ShowPage",
+    "pages/WebComponent",
+    "pages/MainPage",
+    "pages/HomePage",
+    "pages/NewsEditPage",
+    "pages/LauncherPage",
+    "pages/AdvertisingPage",
+    "pages/AppHomePage",
+    "pages/PrivacyPage",
+    "pages/Index2",
+    "pages/NotificationPage"
+  ]
+}

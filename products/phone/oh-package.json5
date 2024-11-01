@@ -1,0 +1,23 @@
+{
+  "license": "",
+  "devDependencies": {},
+  "author": "",
+  "name": "phone",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "conference": "file:../../features/conference",
+    "utils": "file:../../commons/utils",
+    "discover": "file:../../features/discover",
+    "topic": "file:../../features/topic",
+    "mine": "file:../../features/mine",
+    "learning": "file:../../features/learning",
+    "challenge": "file:../../features/challenge",
+    "datastore": "file:../../commons/datastore",
+    "uicomponents": "file:../../commons/uicomponents",
+    "login": "file:../../features/login",
+    "audioplayer": "file:../../commons/audioplayer",
+    "aspect": "file:../../commons/aspect"
+  }
+}

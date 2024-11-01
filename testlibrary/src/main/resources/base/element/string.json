@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "library_title",
+      "value": "标题"
+    },
+    {
+      "name": "page_show",
+      "value": "page from npm package"
+    }
+  ]
+}
